@@ -1,0 +1,9 @@
+com\app\controllers\User.class
+com\app\controllers\UserController.class
+com\app\services\UserServiceImpl.class
+com\app\beans\UserLogin.class
+com\app\dao\UserDaoImpl.class
+com\app\services\UserServices.class
+com\app\common\UserValidation.class
+com\app\dao\UserDao.class
+com\app\beans\UserRegistration.class

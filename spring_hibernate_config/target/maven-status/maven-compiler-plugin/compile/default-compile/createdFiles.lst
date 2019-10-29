@@ -1,0 +1,4 @@
+com\sphib\test\Test.class
+com\sphib\dao\EmployeeDao.class
+com\sphib\beans\Employee.class
+com\sphib\dao\EmployeeDaoImpl.class
